@@ -1,0 +1,25 @@
+
+    <section class="main-container" style="font-size: 17px; max-width: 700px; margin: 0 auto;">
+        <h1 style="text-align: center">Listado estudiantes por grado</h1>
+        <h3 style="text-align: center">Prekinder</h3>
+        <section>
+            <table  style="width: 100%; text-align: left;">
+                <thead style="font-size:18px;">
+                    <tr>
+                        <th>Codigo Familia</th>
+                        <th>Name Complete</th>
+                    </tr>
+                </thead>
+                <tbody style="font-size:17px; line-height:4px;">
+                    <tr>
+                        <td>W001</td>
+                        <td>w w, w w</td>
+                    </tr>
+                    <tr>
+                        <td>W001</td>
+                        <td>w w, w w</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </section>
